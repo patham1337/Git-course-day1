@@ -7,9 +7,12 @@ public class Main {
     int[] arr = {1, 5, 7, 8, 5, 6};
 
         for (int i = 0; i < arr.length; i++) {
-            if (arr[i] == 6) {
+            if (arr[i] == 1) {
             System.out.println("found a five at index " + i);
+
+            }
+
             }
         }
     }
-}
+
